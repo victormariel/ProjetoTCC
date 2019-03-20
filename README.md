@@ -1,2 +1,2 @@
 # ProjetoTCC
-Sistema de documentação
+Sistema para migração de grade curricular.
